@@ -1,5 +1,9 @@
 # SpringBoot-Demo
 SpringBoot常用功能实践...
 
-## SpringBoot存储
+|        项目名         |                          介绍                          |
+| :-------------------: | :----------------------------------------------------: |
+| 01-SpringBoot-Storage | SpringBoot整合FastDfs，Ceph，七牛云OSS实现对象存储服务 |
+
+
 
